@@ -43,9 +43,12 @@
 <p align="left">
   💌 Se interessou pelo meu trabalho? Adoraria conversar com você! Fique à vontade para me contatar. ⤵️
   
-  [<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:anapaula-sds@hotmail.com)  
-  [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/anapaula-sds)  
  🌐 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anapaula-sds)
  🐙 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anapaula-sds)
  📱 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5511986021650?text=Olá,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!)
+</p>
+
+<p align="left">
+[<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:anapaula-sds@hotmail.com)  
+  [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/anapaula-sds)  
 </p>
