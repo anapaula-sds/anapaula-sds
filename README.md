@@ -3,7 +3,7 @@
 ## 💜 Olá, meu nome é Ana Paula Santana!
 
 <p align="left"> 
-  Uma entusiasta de tecnologia e <strong>desenvolvimento fullstack</strong>. Minha stack inclui <strong>JavaScript, TypeScript, Node.js, Nest.js, React.js e SQL</strong>strong>, e eu amo criar soluções completas, do <strong>front ao back-end</strong>strong>.
+  Uma entusiasta de tecnologia e <strong>desenvolvimento fullstack</strong>. Minha stack inclui <strong>JavaScript, TypeScript, Node.js, Nest.js, React.js e SQL</strong>, e eu amo criar soluções completas, do <strong>front ao back-end</strong>.
 
   Atualmente, estou desenvolvendo projetos próprios para colocar em prática tudo o que aprendo. Sou estudante do último semestre do <strong>bacharelado em Sistemas de Informação</strong> na Uninove e também curso <strong>Tecnólogo em Ciência de Dados</strong> na Cruzeiro do Sul EAD, buscando sempre expandir meus conhecimentos e habilidades!
   
