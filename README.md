@@ -42,6 +42,7 @@
 
 <p align="left">
   💌 Se interessou pelo meu trabalho? Adoraria conversar com você! Fique à vontade para me contatar. ⤵️
+  
   [<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:anapaula-sds@hotmail.com)  
   [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/anapaula-sds)  
  🌐 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anapaula-sds)
