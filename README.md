@@ -5,7 +5,7 @@
 <p align="left"> 
   Uma entusiasta de tecnologia e <strong>desenvolvimento fullstack</strong>. Minha stack inclui <strong>JavaScript, TypeScript, Java, Node.js, Nest.js, React.js e SQL</strong> e eu amo criar soluções completas, do <strong>front ao back-end</strong>.
 
-  Atualmente, estou desenvolvendo projetos próprios para colocar em prática tudo o que aprendi. Sou formada em: <strong>Bacharel em Sistemas de Informação</strong> na Uninove e também curso <strong>Tecnólogo em Ciência de Dados</strong> na Cruzeiro do Sul EAD, buscando sempre expandir meus conhecimentos e habilidades!
+  Atualmente, estou desenvolvendo projetos próprios para colocar em prática tudo o que aprendi. Sou formada em  <strong>Bacharel em Sistemas de Informação</strong> na Uninove e também curso <strong>Tecnólogo em Ciência de Dados</strong> na Cruzeiro do Sul Virtual, busco sempre expandir meus conhecimentos e habilidades!
   
 </p>
 
@@ -26,6 +26,8 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
