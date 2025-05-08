@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 # 💜 Olá! Eu sou a Ana Paula Santana
 
 Sou uma entusiasta da tecnologia e apaixonada por **desenvolvimento fullstack**. Gosto de criar soluções completas, do **frontend ao backend**, utilizando tecnologias como **JavaScript, TypeScript, Java, Node.js, Nest.js, React.js, SQL** e **Tailwind CSS**.
