@@ -26,17 +26,17 @@ Atualmente, desenvolvo projetos próprios para aplicar meus conhecimentos na pr�
 ## 🚀 Minhas Skills
 
 <p>
-  <code><img height="32" src="https://img.icons8.com/ios/452/c-programming.png" alt="C"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/javascript.png" alt="JavaScript"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/typescript.png" alt="TypeScript"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/java.png" alt="Java"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/nodejs.png" alt="Node.js"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/html-5.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/css3.png" alt="CSS3"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/react.png" alt="React"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/mysql.png" alt="MySQL"/></code>
-  <code><img height="32" src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
 </p>
 
 ---
