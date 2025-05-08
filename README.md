@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right"/>
-
 # 💜 Olá! Eu sou a Ana Paula Santana
 
 Sou uma entusiasta da tecnologia e apaixonada por **desenvolvimento fullstack**. Gosto de criar soluções completas, do **frontend ao backend**, utilizando tecnologias como **JavaScript, TypeScript, Java, Node.js, Nest.js, React.js, SQL** e **Tailwind CSS**.
@@ -28,17 +26,17 @@ Atualmente, desenvolvo projetos próprios para aplicar meus conhecimentos na pr�
 ## 🚀 Minhas Skills
 
 <p>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/c-programming.png" alt="C"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/javascript.png" alt="JavaScript"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/typescript.png" alt="TypeScript"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/java.png" alt="Java"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/nodejs.png" alt="Node.js"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/html-5.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/css3.png" alt="CSS3"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/bootstrap.png" alt="Bootstrap"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/react.png" alt="React"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/mysql.png" alt="MySQL"/></code>
+  <code><img height="32" src="https://img.icons8.com/ios/452/postgresql.png" alt="PostgreSQL"/></code>
 </p>
 
 ---
